@@ -1,4 +1,4 @@
-## Airtribe-Internship-Project
+## *Airtribe-Internship-Project*
 
 # Problem Statement
 Design database and APIs for application-based courses on Airtribe.
