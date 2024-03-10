@@ -1,17 +1,17 @@
 ## Airtribe-Internship-Project
 
-#Problem Statement
+# Problem Statement
 Design database and APIs for application-based courses on Airtribe.
 
-#Database Relations
+# Database Relations
 There are multiple instructors on Airtribe.
 Every instructor can start multiple courses.
 Multiple learners can apply for a course using an application form (Leads).
 Instructors can add comments against every lead.
-#Database Design
+# Database Design
 Design the above relationships on any SQL database.
 
-#Implemented APIs
+# Implemented APIs
 Create Course API:
 
 Endpoint: POST /courses
